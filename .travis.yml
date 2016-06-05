@@ -5,3 +5,4 @@ python:
 install:
   - 'pip install -e .'
   - 'pip install -e ".[testing]"'
+script: py.test -q --cov
