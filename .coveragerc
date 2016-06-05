@@ -1,0 +1,3 @@
+[run]
+source = pyramideat
+omit = pyramideat/test*
